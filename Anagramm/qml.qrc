@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Direction.qml</file>
+        <file>Game.qml</file>
+        <file>Score.qml</file>
+        <file>Hall.qml</file>
+        <file>Images/winner.jpg</file>
+        <file>Images/a.png</file>
+        <file>Images/d.png</file>
+        <file>Images/r.png</file>
+        <file>Images/f.png</file>
+        <file>Images/n.png</file>
+        <file>Images/k.png</file>
+        <file>Images/e.png</file>
+        <file>Images/s.png</file>
+        <file>Images/t.png</file>
+        <file>Images/i.png</file>
+        <file>Images/frankenstein.png</file>
+        <file>Images/anagramme.png</file>
+        <file>Images/by.png</file>
+        <file>Images/background.jpg</file>
+		<file>Images/background.png</file>
+        <file>Images/electro.jpg</file>
+        <file>Images/dragon.jpg</file>
+        <file>Images/anago.jpg</file>
+        <file>Images/mur.jpg</file>
+        <file>Images/vs.jpg</file>
+        <file>Images/alpha.jpg</file>
+        <file>Images/pole.png</file>
+        <file>Lanim.qml</file>
+        <file>Animationen.qml</file>
+        <file>Instruct.qml</file>
+        <file>Bille.qml</file>
+        <file>Billeau.qml</file>
+        <file>Scan.qml</file>
+    </qresource>
+</RCC>
