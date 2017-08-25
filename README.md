@@ -1,3 +1,3 @@
 # Anagramme
-Ce jeu est fait essentiellement avec QML C++ et javascript et utilise plusieurs modules de Qt.Quick 2.7 et Qt 5.8 donc il est plus que necessaire d'avoir Qt à jour.
-il est compilé avec MinGw 4.9 mais du fait de sa simplicité, je dirais qu'il compilera avec toute version de MinGw plus ou moins récente
+
+This game is essentially done with QML C ++ and javascript and uses several modules of Qt.Quick 2.7 and Qt 5.8 so it is more than necessary to have Qt up to date. It is compiled with MinGw 4.9 but because of its simplicity, I would say that it will compile with any version of MinGw more or less recent
